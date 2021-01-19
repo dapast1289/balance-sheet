@@ -1,0 +1,14 @@
+server:
+  port: 8080
+spring:
+  profiles: ide
+  data:
+    mongodb:
+      host: mongodb+srv://balance%3A%21QAZ2wsx@blancesheetcluster.pzfo5.mongodb.net/test
+      database: blanceSheet
+      authentication-database: admin
+
+logstash:
+  url: 127.0.0.1
+trace:
+  url: http://tracing-analysis-dc-sh-internal.aliyuncs.com/adapt_afgksewepo@2bcea44528fed1d_afgksewepo@53df7ad2afe8301/api/traces
