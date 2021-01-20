@@ -14,7 +14,7 @@
       <configuration />
     </facet>
   </component>
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
     <content url="file://$MODULE_DIR$">
@@ -77,6 +77,14 @@
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.30" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.plugin:spring-plugin-core:2.0.0.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.plugin:spring-plugin-metadata:2.0.0.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.18.12" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-data-mongodb:2.3.1.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.mongodb:mongodb-driver-sync:4.0.4" level="project" />
+    <orderEntry type="library" name="Maven: org.mongodb:bson:4.0.4" level="project" />
+    <orderEntry type="library" name="Maven: org.mongodb:mongodb-driver-core:4.0.4" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.data:spring-data-mongodb:3.0.1.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-tx:5.2.7.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.data:spring-data-commons:2.3.1.RELEASE" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-starter-test:2.3.1.RELEASE" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-test:2.3.1.RELEASE" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-test-autoconfigure:2.3.1.RELEASE" level="project" />
